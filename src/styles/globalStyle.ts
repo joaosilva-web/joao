@@ -16,6 +16,7 @@ export const GlobalStyle = createGlobalStyle`
     button {
         height: 56px;
         border-radius: 10px;
+        border: 0;        
     }
 
 `
