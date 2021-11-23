@@ -2,10 +2,6 @@ import * as S from "./styles";
 import bg from "../../assets/bg.png";
 import foto from "../../assets/eu.png"
 
-interface InterfacePropsHome {
-    background: string;
-}
-
 export default function Home() {
     return(
         <S.Home background={bg}>
